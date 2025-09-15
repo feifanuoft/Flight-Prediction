@@ -1,0 +1,1 @@
+This is a project focused on predicting flight prices, encompassing data inspection, processing, feature selection, building machine learning pipelines, and performing machine learning predictions.
